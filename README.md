@@ -7,4 +7,4 @@ A project that is guided by Udacity Course ( Google)
 #Download the zip file and unzip it.
 #Then Open the project folder(Unzipped file) in Android Studio.
 
-# Make sure that gradle is finished successfully
+#Make sure that gradle is finished successfully
